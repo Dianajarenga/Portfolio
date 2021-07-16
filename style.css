@@ -38,8 +38,9 @@ html{
 }
 
 
-a:hover{background-color:rgb(205, 50, 153);}
-h1{color: rgb(252, 0, 197);
+a:hover{background-color:#C3083F;
+}
+h1{color: #C3083F;
     text-align: center;}
  .home{
     height: 80vh;
